@@ -1,0 +1,28 @@
+{
+  "name": "Leapduino",
+  "version": "0.0.1",
+  "description": "A library for controlling an Arduino through a Leap Motion device",
+  "main": "./lib/leapduino.js",
+  "lib": {
+    "Leapduino": "leapduino.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ytham/leapduino.git"
+  },
+  "keywords": [
+    "Leap",
+    "Motion",
+    "Arduino"
+  ],
+  "author": "Yu Jiang Tham",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "abf44986331672d1d90ddd7d281c8fc58b911858",
+  "bugs": {
+    "url": "https://github.com/ytham/leapduino/issues"
+  }
+}
